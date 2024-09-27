@@ -9,4 +9,3 @@ et obtenir une stabilité durable, que ce soit pour développer un site web ou c
 ### partie 3 => Installation d'une base de données sur RDS
 ### partie 4 => Stockage des fichiers sur S3 et gestion de facturation sur AWS
 
-Ce sont des serveurs et datacenters mis à disposition et gérés par un tiers: AWS 
